@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(55, 55, 55);
+}
+
+.head{
+    background-image: url("./Без названия.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(235, 235, 235);
+    padding: 35px;
+    text-align: center;
+    margin-bottom: 55px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    box-shadow: -4px 23px 13px rgba(0, 0, 0, 0.21);
+}
+
+.center{
+    margin: auto;
+    background-image: url(./asd.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(235, 235, 235);
+    padding: 35px;
+    text-align: center;
+    width: 1000px;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: black;
+    box-shadow: 1px 3px 50px rgba(0, 0, 0, 0.21);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
