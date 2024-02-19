@@ -3,7 +3,7 @@ body{
 }
 
 .head{
-    background-image: url("./Без названия.png");
+    background-image: url("../img/Без названия.png");
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(235, 235, 235);
@@ -16,7 +16,7 @@ body{
 
 .center{
     margin: auto;
-    background-image: url(./asd.png);
+    background-image: url(../img/asd.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: rgb(235, 235, 235);
